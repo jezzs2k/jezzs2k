@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jezzs2k
+- 👋 Hi, I’m HIEU
+- 👋 My nickname @jezzs2k
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning UET-VNU
 - 💞️ I’m looking to collaborate on TECHNICAL COMPANY
